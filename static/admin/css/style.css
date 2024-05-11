@@ -1,0 +1,6 @@
+@import url("fonts.css");
+
+html[data-theme="light"], :root {
+    --font-family-primary: Vazirmatn;
+    /* --font-family-monospace: Vazirmatn; */
+}
